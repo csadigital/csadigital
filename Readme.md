@@ -18,7 +18,7 @@
 <h2 align="left">Hosting Hizmetleri</h2>
 <p align="left">
 <a href="https://csadigital.net/kategori/web-hosting" target="blank"><img align="center" src="https://csadigital.net/templates/website/CSA/csadigitalicon/linuxhosting.webp" alt="Web Hosting" height="40" width="50" /></a>
-<a href="https://csadigital.net/kategori/wordpress-hosting" target="blank"><img align="center" src="https://csadigital.net/templates/website/CSA/csadigitalicon/wordpress.webp" alt="WordPress Hosting" height="50" width="40" /></a>
+<a href="https://csadigital.net/kategori/wordpress-hosting" target="blank"><img align="center" src="https://csadigital.net/templates/website/CSA/csadigitalicon/wordpress.webp" alt="WordPress Hosting" height="40" width="50" /></a>
 <a href="https://csadigital.net/kategori/reseller-bayi-hosting" target="blank"><img align="center" src="https://csadigital.net/templates/website/CSA/csadigitalicon/resellerhosting.webp" alt="Reseller Hosting" height="40" width="50" /></a>
 <a href="https://csadigital.net/kategori/cloud-hosting" target="blank"><img align="center" src="https://csadigital.net/templates/website/CSA/csadigitalicon/cloudhosting.webp" alt="Cloud Hosting" height="40" width="50" /></a>
 </p>
