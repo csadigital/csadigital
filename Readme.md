@@ -25,7 +25,7 @@
 
 <h2 align="left">VPS / VDS Hizmetleri</h2>
 <p align="left">
-<a href="https://csadigital.net/kategori/server/hetzner-cloud-xeon-gold" target="blank"><img align="center" src="https://csadigital.net/templates/website/CSA/assets/img/server1.webp" alt="Hetzner Cloud Xeon" height="30" width="50" /></a>
+<a href="https://csadigital.net/kategori/server/hetzner-cloud-xeon-gold" target="blank"><img align="center" src="https://csadigital.net/templates/website/CSA/assets/img/server1.webp" alt="Hetzner Cloud Xeon" height="40" width="50" /></a>
 <a href="https://csadigital.net/kategori/cpanel-vps-vds" target="blank"><img align="center" src="https://csadigital.net/templates/website/CSA/assets/img/server2.webp" alt="cPanel VDS" height="40" width="50" /></a>
 <a href="https://csadigital.net/kategori/nested-sunucu" target="blank"><img align="center" src="https://csadigital.net/templates/website/CSA/images/nested.png" alt="Nested Sunucu" height="40" width="50" /></a>
 <a href="https://csadigital.net/kategori/server/vds-sunucu" target="blank"><img align="center" src="https://csadigital.net/templates/website/CSA/tema/icon/hetzner.png" alt="TR VDS" height="40" width="50" /></a>
