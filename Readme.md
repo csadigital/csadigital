@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, We're CSA Digital</h1>
 <h3 align="center">Hosting Sunucu Yeni Nesil Cloud Web Servisleri</h3>
 
-<center><a href="https://csadigital.net/" target="blank"><img align="center" src="https://csadigital.net/resources/uploads/logo/2023-06-19/csa-digital-yeni-nesil-cloud-web-hosting-hizmetleri-2.webp" alt="Web Hosting" height="100" width="100" /></a></center>
+<center><a href="https://csadigital.net/" target="blank"><img align="center" src="https://csadigital.net/resources/uploads/logo/2023-06-19/csa-digital-yeni-nesil-cloud-web-hosting-hizmetleri-2.webp" alt="Web Hosting" height="300" width="168" /></a></center>
 
 <h2 align="left">Yazılımlarımız</h3>
 
