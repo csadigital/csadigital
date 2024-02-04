@@ -11,7 +11,7 @@
 
 - 🤖 [**GamerCP**](https://csadigital.net/yazilim/gamercp-wisecp-tema-satin-al) 
 
-<h3 align="left">Hosting Hizmetleri</h3>
+<h2 align="left">Hosting Hizmetleri</h2>
 <p align="left">
 <a href="https://csadigital.net/kategori/web-hosting" target="blank"><img align="center" src="https://csadigital.net/templates/website/CSA/csadigitalicon/linuxhosting.webp" alt="Web Hosting" height="30" width="40" /></a>
 <a href="https://csadigital.net/kategori/wordpress-hosting" target="blank"><img align="center" src="https://csadigital.net/templates/website/CSA/csadigitalicon/wordpress.webp" alt="WordPress Hosting" height="30" width="40" /></a>
@@ -19,7 +19,7 @@
 <a href="https://csadigital.net/kategori/cloud-hosting" target="blank"><img align="center" src="https://csadigital.net/templates/website/CSA/csadigitalicon/cloudhosting.webp" alt="Cloud Hosting" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">VPS / VDS Hizmetleri</h3>
+<h2 align="left">VPS / VDS Hizmetleri</h2>
 <p align="left">
 <a href="https://csadigital.net/kategori/server/hetzner-cloud-xeon-gold" target="blank"><img align="center" src="https://csadigital.net/templates/website/CSA/assets/img/server1.webp" alt="Hetzner Cloud Xeon" height="30" width="40" /></a>
 <a href="https://csadigital.net/kategori/cpanel-vps-vds" target="blank"><img align="center" src="https://csadigital.net/templates/website/CSA/assets/img/server2.webp" alt="cPanel VDS" height="30" width="40" /></a>
@@ -27,7 +27,7 @@
 <a href="https://csadigital.net/kategori/server/vds-sunucu" target="blank"><img align="center" src="https://csadigital.net/templates/website/CSA/tema/icon/hetzner.png" alt="TR VDS" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">İş Ortaklarımız!</h3>
+<h2 align="left">İş Ortaklarımız!</h2>
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
