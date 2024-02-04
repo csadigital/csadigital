@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, We're CSA Digital</h1>
 <h3 align="center">Hosting Sunucu Yeni Nesil Cloud Web Servisleri</h3>
 
+<a href="https://csadigital.net/kategori/web-hosting" target="blank"><img align="center" src="https://csadigital.net/templates/website/CSA/csadigitalicon/linuxhosting.webp" alt="Web Hosting" height="30" width="40" /></a>
+
 <h2 align="left">Yazılımlarımız</h3>
 
 - 🤖 [**CashGPT**](https://csadigital.net/yazilim/cashgpt-yapay-zeka-makale) 
@@ -43,3 +45,11 @@
 <a href="https://fb.com/https://www.facebook.com/csadigitalnet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/csadigitalnet" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/csadigitalnet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/csadigitalnet/" height="30" width="40" /></a>
 </p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
